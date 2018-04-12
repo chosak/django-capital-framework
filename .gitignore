@@ -1,0 +1,4 @@
+*.pyc
+
+node_modules
+capitalframework/static/icons/*.svg

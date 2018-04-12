@@ -1,0 +1,9 @@
+{
+  "name": "django-capital-framework",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "cf-icons": "4.3.1"
+  }
+}
